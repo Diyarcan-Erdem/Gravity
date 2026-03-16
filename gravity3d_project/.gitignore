@@ -20,9 +20,5 @@ bin/
 obj/
 *.cache
 
-# Keep source files
-*.cpp
-*.h
-
 # Ignore the compiled Gravity3D executable specifically
 Gravity3D.exe
