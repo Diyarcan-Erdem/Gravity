@@ -1,0 +1,28 @@
+# Build artifacts
+*.exe
+*.obj
+*.o
+*.log
+*.ilk
+*.pdb
+
+# Visual Studio / IDE
+.vs/
+*.user
+*.suo
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Misc
+bin/
+obj/
+*.cache
+
+# Keep source files
+*.cpp
+*.h
+
+# Ignore the compiled Gravity3D executable specifically
+Gravity3D.exe
